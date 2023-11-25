@@ -1,0 +1,13 @@
+C:\Users\fatma\Desktop\MyAwesomeProgram\bin\Debug\netcoreapp3.1\MyAwesomeProgram.exe
+C:\Users\fatma\Desktop\MyAwesomeProgram\bin\Debug\netcoreapp3.1\MyAwesomeProgram.deps.json
+C:\Users\fatma\Desktop\MyAwesomeProgram\bin\Debug\netcoreapp3.1\MyAwesomeProgram.runtimeconfig.json
+C:\Users\fatma\Desktop\MyAwesomeProgram\bin\Debug\netcoreapp3.1\MyAwesomeProgram.runtimeconfig.dev.json
+C:\Users\fatma\Desktop\MyAwesomeProgram\bin\Debug\netcoreapp3.1\MyAwesomeProgram.dll
+C:\Users\fatma\Desktop\MyAwesomeProgram\bin\Debug\netcoreapp3.1\MyAwesomeProgram.pdb
+C:\Users\fatma\Desktop\MyAwesomeProgram\obj\Debug\netcoreapp3.1\MyAwesomeProgram.csprojAssemblyReference.cache
+C:\Users\fatma\Desktop\MyAwesomeProgram\obj\Debug\netcoreapp3.1\MyAwesomeProgram.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\MyAwesomeProgram\obj\Debug\netcoreapp3.1\MyAwesomeProgram.AssemblyInfo.cs
+C:\Users\fatma\Desktop\MyAwesomeProgram\obj\Debug\netcoreapp3.1\MyAwesomeProgram.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\MyAwesomeProgram\obj\Debug\netcoreapp3.1\MyAwesomeProgram.dll
+C:\Users\fatma\Desktop\MyAwesomeProgram\obj\Debug\netcoreapp3.1\MyAwesomeProgram.pdb
+C:\Users\fatma\Desktop\MyAwesomeProgram\obj\Debug\netcoreapp3.1\MyAwesomeProgram.genruntimeconfig.cache
