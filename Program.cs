@@ -15,7 +15,7 @@ namespace MyAwesomeProgram
             Console.WriteLine("Hello " + userName + ",nice to meet you");
 
             //Adding 2 numbers
-            int num01;
+           /* int num01;
             int num02;
             Console.Write("Enter the first number: ");
             num01 = Convert.ToInt32(Console.ReadLine());
@@ -35,8 +35,23 @@ namespace MyAwesomeProgram
             number3 = Convert.ToInt32(Console.ReadLine());
             int avrage =(number +number2 + number3)/3;
             Console.WriteLine("The avrage: "+ avrage);
+            */
 
-
+            Console.WriteLine("welcome ! Tickets are 5$. Please insert cash.");
+            int cash = Convert.ToInt32(Console.ReadLine());
+            if (cash < 5 )
+            {
+                Console.WriteLine("That is not enough money.");
+            }
+            else if (cash == 5)
+            {
+                Console.WriteLine("This is your ticket.");
+            }
+            else 
+            {
+                int change = cash - 5;
+                Console.WriteLine("This is your ticket and " + change +" dollers in change." );
+            }
 
             Console.ReadKey();// "Wait before close" This line waits for the user to press button, so that the window will not ending or closing 
         }
