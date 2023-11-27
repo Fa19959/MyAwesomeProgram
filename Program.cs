@@ -37,7 +37,7 @@ namespace MyAwesomeProgram
             Console.WriteLine("The avrage: "+ avrage);
             */
 
-            Console.WriteLine("welcome ! Tickets are 5$. Please insert cash.");
+           /* Console.WriteLine("welcome ! Tickets are 5$. Please insert cash.");
             int cash = Convert.ToInt32(Console.ReadLine());
             if (cash < 5 )
             {
@@ -52,7 +52,22 @@ namespace MyAwesomeProgram
                 int change = cash - 5;
                 Console.WriteLine("This is your ticket and " + change +" dollers in change." );
             }
+*/
 
+                int age;
+                int height;
+                Console.WriteLine("Please Enter The age: ");
+                age= Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("please enter the height in cm: ");
+                height = Convert.ToInt32(Console.ReadLine());
+                if (age >= 18 && height >= 160)
+                {
+                    Console.WriteLine("you can enter");
+                }
+                else
+                {
+                    Console.WriteLine("you dont meet the requirements");
+                }
             Console.ReadKey();// "Wait before close" This line waits for the user to press button, so that the window will not ending or closing 
         }
     }
