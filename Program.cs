@@ -53,12 +53,14 @@ namespace MyAwesomeProgram
                 Console.WriteLine("This is your ticket and " + change +" dollers in change." );
             }
 */
-/* for ()
+/* for (before , condition, after)
 {
     //this is repeted =i
 }
 */
 
+
+/*
                 int age;
                 int height;
                 Console.WriteLine("Please Enter The age: ");
@@ -73,6 +75,19 @@ namespace MyAwesomeProgram
                 {
                     Console.WriteLine("you dont meet the requirements");
                 }
+
+                  for (int i = 0; i < 10; i++)
+                {
+                    Console.WriteLine(i+1);
+                }
+
+*/
+
+               for (int i = 1; i <= 10; i++)
+                {
+                    Console.WriteLine(i);
+                } 
+
             Console.ReadKey();// "Wait before close" This line waits for the user to press button, so that the window will not ending or closing 
         }
     }
