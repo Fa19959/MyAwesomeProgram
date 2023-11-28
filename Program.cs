@@ -80,13 +80,19 @@ namespace MyAwesomeProgram
                 {
                     Console.WriteLine(i+1);
                 }
-
-*/
-
+                // this the same it will print the number from 1 to 10
                for (int i = 1; i <= 10; i++)
                 {
                     Console.WriteLine(i);
                 } 
+
+*/
+            for (int i = 1; i <= 10; i++)
+                {
+                    double result = Math.Pow(2, i);
+                    Console.WriteLine(result);
+                }
+
 
             Console.ReadKey();// "Wait before close" This line waits for the user to press button, so that the window will not ending or closing 
         }
