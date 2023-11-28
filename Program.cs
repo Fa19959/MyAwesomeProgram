@@ -53,6 +53,11 @@ namespace MyAwesomeProgram
                 Console.WriteLine("This is your ticket and " + change +" dollers in change." );
             }
 */
+/* for ()
+{
+    //this is repeted =i
+}
+*/
 
                 int age;
                 int height;
