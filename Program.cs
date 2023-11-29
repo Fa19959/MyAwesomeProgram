@@ -85,15 +85,24 @@ namespace MyAwesomeProgram
                 {
                     Console.WriteLine(i);
                 } 
-
-*/
-            for (int i = 1; i <= 10; i++)
+ for (int i = 1; i <= 10; i++)
                 {
                     double result = Math.Pow(2, i);
                     Console.WriteLine(result);
                 }
+*/
+           
+           Random numberGen = new Random();
 
-
+           int roll= 0;
+           int attempts= 0;
+           while (roll != 6)
+           {
+            roll = numberGen.Next(1,7);
+            Console.WriteLine("you rolled:"+ roll);
+            attempts++;
+           }
+            Console.WriteLine("it took you" + attempts + "attempts to roll a six");
             Console.ReadKey();// "Wait before close" This line waits for the user to press button, so that the window will not ending or closing 
         }
     }
