@@ -96,6 +96,7 @@ namespace MyAwesomeProgram
 
            int roll= 0;
            int attempts= 0;
+           Console.WriteLine("press enter to roll the die.");
            while (roll != 6)
            {
             roll = numberGen.Next(1,7);
