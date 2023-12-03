@@ -99,6 +99,7 @@ namespace MyAwesomeProgram
            Console.WriteLine("press enter to roll the die.");
            while (roll != 6)
            {
+            Console.ReadKey();// wait for the user to prss
             roll = numberGen.Next(1,7);
             Console.WriteLine("you rolled:"+ roll);
             attempts++;
