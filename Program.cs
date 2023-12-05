@@ -91,6 +91,7 @@ namespace MyAwesomeProgram
                     Console.WriteLine(result);
                 }
 */
+/*
            
            Random numberGen = new Random();
 
@@ -99,13 +100,16 @@ namespace MyAwesomeProgram
            Console.WriteLine("press enter to roll the die.");
            while (roll != 6)
            {
-            Console.ReadKey();// wait for the user to prss
+            Console.ReadKey();// wait for the user to press
             roll = numberGen.Next(1,7);
             Console.WriteLine("you rolled:"+ roll);
             attempts++;
            }
             Console.WriteLine("it took you" + attempts + "attempts to roll a six");
             Console.ReadKey();// "Wait before close" This line waits for the user to press button, so that the window will not ending or closing 
+            */
+
+            string [] movie = {};
         }
     }
 }
