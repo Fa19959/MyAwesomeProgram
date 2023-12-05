@@ -109,7 +109,7 @@ namespace MyAwesomeProgram
             Console.ReadKey();// "Wait before close" This line waits for the user to press button, so that the window will not ending or closing 
             */
 
-            string [] movie = {};
+            string [] colors = {"red","green","blue"};
         }
     }
 }
