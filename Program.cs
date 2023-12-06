@@ -110,6 +110,10 @@ namespace MyAwesomeProgram
             */
 
             string [] colors = {"red","green","blue"};
+            for (int i = 0; i < 10; i++)
+            {
+                
+            }
         }
     }
 }
